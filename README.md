@@ -1,12 +1,12 @@
-# Game Developer and Software Developer.
+## Game and Software Developer.
 
-## Games
+### Games
 
-### In development
+#### In development
 + [Point Rescue: Arcade](https://magellanicgames.itch.io/pointrescue-arcade) An lightgun shooter for Web, Windows and Linux.  Playable demo available.
 
 
-### Released
+#### Released
 
 + [Office Point Rescue: Out the Office](https://magellanicgames.itch.io/opr-oto) A retro first-person shoooter for Windows and Linux made with Godot.
 + [Nutlet in Microchip Mayhem](https://magellanicgames.itch.io/nutletmm) Retro 3D platformer for Windows and Linux made with Godot.
