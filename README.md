@@ -3,8 +3,8 @@
 ### Games
 
 #### In development
-+ [Point Rescue: Arcade](https://magellanicgames.itch.io/pointrescue-arcade) An lightgun shooter for Web, Windows and Linux.  Playable demo available.
-
++ [Point Rescue: Arcade](https://magellanicgames.itch.io/pointrescue-arcade) An lightgun shooter for Web, Windows and Linux made with Godot.  Playable demo available.
++ Un-named Shoot 'em up being made with C++ and Raylib.
 
 #### Released
 
