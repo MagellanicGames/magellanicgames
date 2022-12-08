@@ -1,31 +1,32 @@
 ## Hi, I'm a Game and Software Developer.
 
+### My most recent project: [Mini JSON](https://github.com/MagellanicGames/minijson), a small, lightweight JSON parser for C++
+
 ### Games
 
 + #### In development
-  + [Point Rescue: Arcade](https://magellanicgames.itch.io/pointrescue-arcade) An lightgun shooter for Web, Windows and Linux made with Godot.  Playable demo available.
+  + [Point Rescue: Arcade](https://magellanicgames.itch.io/pointrescue-arcade) A modern, 3D lightgun shooter.  [Godot](https://github.com/godotengine/godot) (Windows and Linux).  Playable in browser.
   + Un-named Shoot 'em up being made with C++ and Raylib.
 
 + #### Released
-  + [Office Point Rescue: Out the Office](https://magellanicgames.itch.io/opr-oto) A retro first-person shoooter for Windows and Linux made with Godot.
-  + [Nutlet in Microchip Mayhem](https://magellanicgames.itch.io/nutletmm) Retro 3D platformer for Windows and Linux made with Godot.
-  + [Repulser: Invasion of the Aspect](https://magellanicgames.itch.io/repulserinvasionoftheaspect) Vertical scrolling shoot 'em up for Windows and Linux built with Monogame.
+  + [Office Point Rescue: Out the Office](https://magellanicgames.itch.io/opr-oto) A retro first-person shoooter. [Godot](https://github.com/godotengine/godot) (Windows and Linux)
+  + [Nutlet in Microchip Mayhem](https://magellanicgames.itch.io/nutletmm) Retro 3D platformer. [Godot](https://github.com/godotengine/godot) (Windows and Linux)
+  + [Repulser: Invasion of the Aspect](https://magellanicgames.itch.io/repulserinvasionoftheaspect) Vertical scrolling shoot 'em up. [Monogame](https://github.com/MonoGame/MonoGame) (Windows and Linux) 
 
 + #### Unreleased Prototypes
-  + [Puzzle Platformer](https://github.com/MagellanicGames/puzzle_platformer2017) 2.5D puzzle platformer for Windows made with SFML 2.
+  + [Puzzle Platformer](https://github.com/MagellanicGames/puzzle_platformer2017) 2.5D puzzle platformer. [SFML2](https://github.com/SFML/SFML) (Windows) 
 
 Many more games at [itch.io](https://magellanicgames.itch.io/).
 
 #### Game Dev. Tools
 
-+ [Mini JSON](https://github.com/MagellanicGames/minijson),  a small, lightweight JSON parser for C++.
-+ [Blender python scripts](https://github.com/MagellanicGames/BlenderExportScripts/blob/main/export_batch.py) for easy batch export of models.
-+ [Tic80 Source Combiner](https://github.com/MagellanicGames/tic80SourceCombiner) Enables inclusion of other lua files (like in C/C++) to allow seperation of source files.
++ [Blender python scripts](https://github.com/MagellanicGames/BlenderExportScripts/blob/main/export_batch.py) Batch export models to GLTF.
++ [Tic80 Source Combiner](https://github.com/MagellanicGames/tic80SourceCombiner) Easily include other lua files in your Tic80 source (like in C/C++).
 
 #### Other Tools
 
-+ [Speedy HTML](https://github.com/MagellanicGames/SpeedyHtml) static website builder made in C#.  Very limited and massively suboptimal output but allows for quick page generation.  Used to generate my own website
-+  [CS Micro MML](https://github.com/MagellanicGames/cs_mmml) a port of Micro Music Macro Language compiler to C#.
++ [Speedy HTML](https://github.com/MagellanicGames/SpeedyHtml) static website builder made in C#. Used to generate [my website](magellanicgames.co.uk)
++ [CS Micro MML](https://github.com/MagellanicGames/cs_mmml) a port of Micro Music Macro Language compiler to C#.
 
 ### What am I currently doing?
 
