@@ -14,7 +14,7 @@
 + #### Unreleased Prototypes
   + [Puzzle Platformer](https://github.com/MagellanicGames/puzzle_platformer2017) 2.5D puzzle platformer for Windows made with SFML 2.
 
-You can check out many other games I have made on [itch.io](https://magellanicgames.itch.io/).
+Many more games at [itch.io](https://magellanicgames.itch.io/).
 
 #### Game Dev. Tools
 
