@@ -25,7 +25,7 @@ Many more games at [itch.io](https://magellanicgames.itch.io/).
 
 #### Other Tools
 
-+ [Speedy HTML](https://github.com/MagellanicGames/SpeedyHtml) static website builder made in C#. Used to generate [my website](www.magellanicgames.co.uk)
++ [Speedy HTML](https://github.com/MagellanicGames/SpeedyHtml) static website builder made in C#. Used to generate my [website](http://magellanicgames.co.uk)
 + [CS Micro MML](https://github.com/MagellanicGames/cs_mmml) a port of Micro Music Macro Language compiler to C#.
 
 ### What am I currently doing?
