@@ -6,7 +6,7 @@
 
 + #### In development
   + [Point Rescue: Arcade](https://magellanicgames.itch.io/pointrescue-arcade) A modern, 3D lightgun shooter.  [Godot](https://github.com/godotengine/godot) (Windows and Linux).  Playable in browser.
-  + Un-named Shoot 'em up being made with C++ and Raylib.
+  + Un-named Shoot 'em up. C++ and [Raylib](https://github.com/raysan5/raylib)
 
 + #### Released
   + [Office Point Rescue: Out the Office](https://magellanicgames.itch.io/opr-oto) A retro first-person shoooter. [Godot](https://github.com/godotengine/godot) (Windows and Linux)
