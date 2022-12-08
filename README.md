@@ -34,6 +34,10 @@ At the moment I'm indulging in some C++ projects.  Having spent the last 4 years
 
 Hopefully I'll find time to delve into emulation development and when I do I'll be sure to post it here.
 
+### What else have I done?
+
+Before becoming a game developer, I worked as C++ software developer doing image processing, digital video broadcast, ship control systems and satellite systems. 
+
 <!--
 **MagellanicGames/magellanicgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
