@@ -28,16 +28,6 @@ Many more games at [itch.io](https://magellanicgames.itch.io/).
 + [Speedy HTML](https://github.com/MagellanicGames/SpeedyHtml) static website builder made in C#. Used to generate my [website](http://magellanicgames.co.uk)
 + [CS Micro MML](https://github.com/MagellanicGames/cs_mmml) a port of Micro Music Macro Language compiler to C#.
 
-### What am I currently doing?
-
-At the moment I'm indulging in some C++ projects.  Having spent the last 4 years developing games in a myriad of other languages I'm very much enjoying revising C++ development and tackling some of the problems game engines do for you.
-
-Hopefully I'll find time to delve into emulation development and when I do I'll be sure to post it here.
-
-### What else have I done?
-
-Before becoming a game developer, I worked as C++ software developer doing image processing, digital video broadcast, ship control and satellite systems. 
-
 <!--
 **MagellanicGames/magellanicgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
