@@ -9,7 +9,7 @@
   + Un-named Shoot 'em up. C++ and [Raylib](https://github.com/raysan5/raylib)
 
 + #### Released
-  + [Office Point Rescue: Out the Office](https://magellanicgames.itch.io/opr-oto) A retro first-person shoooter. [Godot](https://github.com/godotengine/godot) (Windows and Linux)
+  + [Office Point Rescue: Out the Office](https://magellanicgames.itch.io/opr-oto) A retro first-person shooter. [Godot](https://github.com/godotengine/godot) (Windows and Linux)
   + [Nutlet in Microchip Mayhem](https://magellanicgames.itch.io/nutletmm) Retro 3D platformer. [Godot](https://github.com/godotengine/godot) (Windows and Linux)
   + [Repulser: Invasion of the Aspect](https://magellanicgames.itch.io/repulserinvasionoftheaspect) Vertical scrolling shoot 'em up. [Monogame](https://github.com/MonoGame/MonoGame) (Windows and Linux) 
 
